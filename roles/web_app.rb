@@ -5,5 +5,5 @@ run_list(
   'recipe[tomcat]',
   'recipe[nginx]',
   'recipe[addressapp]',
-  'recipe[MySQL]'
+  'recipe[java_sql]'
 )
