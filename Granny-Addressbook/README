@@ -1,0 +1,17 @@
+
+This is a Sample application  uses Tomcat /Mysql
+
+Framework - Tomcat
+DB- Mysql
+
+Application Name - AddressBook
+Mysql DB name - grannydb
+JNDI Name- MySqlGBDS
+
+Included files:
+granny.war - Application war file
+cumulogic-app.xml - CumuLogic descriptor
+grannydb.sql - DB Schema
+README - this file
+
+
